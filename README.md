@@ -11,6 +11,8 @@ apenas **criptografar e descriptografar** arquivos, mas também
 
 ------------------------------------------------------------------------
 
+<img width="832" height="706" alt="image" src="https://github.com/user-attachments/assets/9771243f-88b7-4eef-a9d6-7b9173ef4049" />
+
 ## Funcionalidades Principais
 
 -   **Criptografia de Arquivos**
@@ -35,6 +37,8 @@ apenas **criptografar e descriptografar** arquivos, mas também
     -   Tema escuro aplicado por padrão.
 
 ------------------------------------------------------------------------
+
+<img width="837" height="709" alt="image" src="https://github.com/user-attachments/assets/624187d2-ec15-4037-86ce-67bb32e8768b" />
 
 ## Arquitetura do Projeto
 
@@ -66,6 +70,7 @@ uma funcionalidade específica:
      ┗ icone.ico -> Ícone da aplicação.
 
 ------------------------------------------------------------------------
+<img width="864" height="933" alt="image" src="https://github.com/user-attachments/assets/117ca03a-086b-43ea-b885-b9c24bcf7040" />
 
 ## Tecnologias Utilizadas
 
@@ -90,6 +95,7 @@ python main.py
 ```
 
 ------------------------------------------------------------------------
+<img width="693" height="644" alt="image" src="https://github.com/user-attachments/assets/3d3329ab-e7f9-40f2-ad46-d1e3c0eed2f9" />
 
 ## Segurança
 
@@ -101,11 +107,4 @@ python main.py
 
 ------------------------------------------------------------------------
 
-## Licença
-
-Este projeto está sob o regime **All Rights Reserved (Todos os Direitos
-Reservados)**.\
-Não é permitido copiar, modificar, distribuir, sublicenciar,
-comercializar ou utilizar este código, total ou parcialmente, sem
-autorização expressa e por escrito do autor.\
-Consulte o arquivo LICENSE para mais detalhes.
+<img width="824" height="705" alt="image" src="https://github.com/user-attachments/assets/2ae37aaf-6a55-4348-868f-5df367e833f7" />
